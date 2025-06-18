@@ -1,76 +1,78 @@
-# 🚀 BRGM ONE – Digital Banking App
+# 🏦 BRGM ONE – Plataforma de Banca Digital
 
-Este proyecto fue inicializado con [Create React App](https://github.com/facebook/create-react-app) y sirve como base para el desarrollo de **BRGM ONE**, una aplicación de banca digital moderna, rápida y segura.
+Bienvenido al repositorio oficial de **BRGM ONE**, una moderna plataforma de banca digital diseñada para brindar a los usuarios una experiencia financiera segura, intuitiva y eficiente. Este proyecto fue construido utilizando [Create React App](https://github.com/facebook/create-react-app) como base tecnológica para ofrecer velocidad, escalabilidad y rendimiento.
 
 ---
 
-## 📁 Scripts disponibles
+## 🧰 Comandos disponibles
 
-Dentro del directorio del proyecto, puedes ejecutar los siguientes comandos para gestionar y desarrollar la plataforma:
+En el entorno de desarrollo de **BRGM ONE**, puedes ejecutar los siguientes comandos para construir y mantener tu banco digital:
 
 ### `npm start`
 
-Inicia la aplicación en **modo desarrollo**.  
-Abre [http://localhost:3000](http://localhost:3000) para visualizar la interfaz en tu navegador.
+Inicia la plataforma bancaria en **modo desarrollo**.  
+Abre [http://localhost:3000](http://localhost:3000) para acceder al panel principal.
 
-- La página se actualizará automáticamente con cada cambio realizado.
-- También se mostrarán errores de linting en la consola para ayudarte a mantener un código limpio.
+- Simula la experiencia del cliente bancario en tiempo real.
+- Refresca automáticamente al hacer cambios en el código.
+- Visualiza advertencias o errores que puedan comprometer la seguridad o funcionalidad del sistema bancario.
 
 ---
 
 ### `npm test`
 
-Ejecuta la **batería de pruebas** en modo interactivo.  
-Ideal para validar funcionalidades críticas del banco como:
+Ejecuta la **batería de pruebas automatizadas** en modo interactivo.
 
-- Inicio de sesión
-- Transferencias
-- Autenticación segura
+Incluye pruebas sobre:
 
-Consulta más sobre [cómo ejecutar pruebas](https://facebook.github.io/create-react-app/docs/running-tests).
+- Autenticación de clientes
+- Validación de transferencias y movimientos
+- Acceso a productos bancarios como cuentas, tarjetas y préstamos
+
+Más sobre [pruebas automáticas](https://facebook.github.io/create-react-app/docs/running-tests).
 
 ---
 
 ### `npm run build`
 
-Compila la aplicación para producción dentro de la carpeta `build`.
+Genera una versión **optimizada para producción** de la plataforma bancaria en la carpeta `build`.
 
-- Optimiza el rendimiento y reduce el tamaño de los archivos.
-- El resultado está listo para desplegar en servidores seguros.
+- Archivos minificados y preparados para despliegue en infraestructura segura.
+- Listo para integrarse a servidores, dominios bancarios o aplicaciones móviles.
 
-Más información sobre [despliegue](https://facebook.github.io/create-react-app/docs/deployment).
+Guía de [despliegue oficial](https://facebook.github.io/create-react-app/docs/deployment).
 
 ---
 
 ### `npm run eject`
 
-⚠️ **Advertencia: esta acción es irreversible.**
+⚠️ **Uso avanzado y permanente.**
 
-Si deseas tener **control total sobre la configuración**, puedes usar este comando.  
-Esto moverá todas las dependencias y configuraciones (como Babel, Webpack y ESLint) al proyecto para que puedas personalizarlas libremente.
+Este comando te permite tomar **control total del entorno de configuración** (webpack, Babel, ESLint, etc.) en caso de que desees personalizar completamente la arquitectura de la plataforma bancaria.
 
-No es necesario usarlo para la mayoría de implementaciones, especialmente si estás trabajando en una solución bancaria de tamaño pequeño o mediano.
+No se recomienda para bancos en etapa inicial o sin necesidades específicas de personalización profunda.
 
 ---
 
-## 📘 Recursos adicionales
+## 📚 Recursos útiles
 
-- Documentación de Create React App:  
+- Guía oficial de Create React App:  
   [https://facebook.github.io/create-react-app/docs/getting-started](https://facebook.github.io/create-react-app/docs/getting-started)
 
-- Aprende React desde la fuente oficial:  
+- Aprende React desde la fuente:  
   [https://reactjs.org/](https://reactjs.org/)
 
 ---
 
-## 🛠️ Recursos técnicos avanzados
+## 🔍 Recursos técnicos adicionales
 
-- [División de código (Code Splitting)](https://facebook.github.io/create-react-app/docs/code-splitting)  
-- [Análisis del tamaño del bundle](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)  
-- [Configuración avanzada](https://facebook.github.io/create-react-app/docs/advanced-configuration)  
-- [PWA – App Web Progresiva](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)  
-- [Errores comunes en producción](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)  
+- [División de módulos para funcionalidades bancarias](https://facebook.github.io/create-react-app/docs/code-splitting)  
+- [Análisis del tamaño del sistema](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)  
+- [Configuraciones avanzadas del entorno React bancario](https://facebook.github.io/create-react-app/docs/advanced-configuration)  
+- [Convertir la plataforma en una PWA segura](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)  
+- [Errores comunes al compilar entornos bancarios](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)  
 
 ---
 
-> 💡 **BRGM ONE** está diseñado para ofrecer una experiencia bancaria moderna y personalizable, impulsada por React y enfocada en seguridad, velocidad y facilidad de uso.
+> 💡 **BRGM ONE** es más que un banco digital. Es una herramienta diseñada para transformar la experiencia financiera de los usuarios, con tecnología de vanguardia, procesos intuitivos y máxima seguridad.
+
