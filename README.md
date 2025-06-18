@@ -1,70 +1,76 @@
-# Getting Started with Create React App
+# 🚀 BRGM ONE – Digital Banking App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto fue inicializado con [Create React App](https://github.com/facebook/create-react-app) y sirve como base para el desarrollo de **BRGM ONE**, una aplicación de banca digital moderna, rápida y segura.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 📁 Scripts disponibles
+
+Dentro del directorio del proyecto, puedes ejecutar los siguientes comandos para gestionar y desarrollar la plataforma:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Inicia la aplicación en **modo desarrollo**.  
+Abre [http://localhost:3000](http://localhost:3000) para visualizar la interfaz en tu navegador.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- La página se actualizará automáticamente con cada cambio realizado.
+- También se mostrarán errores de linting en la consola para ayudarte a mantener un código limpio.
+
+---
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Ejecuta la **batería de pruebas** en modo interactivo.  
+Ideal para validar funcionalidades críticas del banco como:
+
+- Inicio de sesión
+- Transferencias
+- Autenticación segura
+
+Consulta más sobre [cómo ejecutar pruebas](https://facebook.github.io/create-react-app/docs/running-tests).
+
+---
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Compila la aplicación para producción dentro de la carpeta `build`.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Optimiza el rendimiento y reduce el tamaño de los archivos.
+- El resultado está listo para desplegar en servidores seguros.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Más información sobre [despliegue](https://facebook.github.io/create-react-app/docs/deployment).
+
+---
 
 ### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+⚠️ **Advertencia: esta acción es irreversible.**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Si deseas tener **control total sobre la configuración**, puedes usar este comando.  
+Esto moverá todas las dependencias y configuraciones (como Babel, Webpack y ESLint) al proyecto para que puedas personalizarlas libremente.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+No es necesario usarlo para la mayoría de implementaciones, especialmente si estás trabajando en una solución bancaria de tamaño pequeño o mediano.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## 📘 Recursos adicionales
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Documentación de Create React App:  
+  [https://facebook.github.io/create-react-app/docs/getting-started](https://facebook.github.io/create-react-app/docs/getting-started)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Aprende React desde la fuente oficial:  
+  [https://reactjs.org/](https://reactjs.org/)
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🛠️ Recursos técnicos avanzados
 
-### Analyzing the Bundle Size
+- [División de código (Code Splitting)](https://facebook.github.io/create-react-app/docs/code-splitting)  
+- [Análisis del tamaño del bundle](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)  
+- [Configuración avanzada](https://facebook.github.io/create-react-app/docs/advanced-configuration)  
+- [PWA – App Web Progresiva](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)  
+- [Errores comunes en producción](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+> 💡 **BRGM ONE** está diseñado para ofrecer una experiencia bancaria moderna y personalizable, impulsada por React y enfocada en seguridad, velocidad y facilidad de uso.
