@@ -1,4 +1,4 @@
-# 🏦 BRGM ONE – Plataforma de Banca Digital
+# 🏦 BRGM ONE – Plataforma de Banco Digital
 
 Bienvenido al repositorio oficial de **BRGM ONE**, una moderna plataforma de banca digital diseñada para brindar a los usuarios una experiencia financiera segura, intuitiva y eficiente. Este proyecto fue construido utilizando [Create React App](https://github.com/facebook/create-react-app) como base tecnológica para ofrecer velocidad, escalabilidad y rendimiento.
 
